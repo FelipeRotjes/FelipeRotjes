@@ -1,5 +1,3 @@
-<p align="center"><a href="https://feliperotjes.com" target="_blank" rel="noopener noreferrer"><img width="100" src="https://www.feliperotjes.com/img/portfolio/thumbnails/logo_fr_2.svg" alt="FelipeRotjes logo"></a></p>
-
 - 👋 Hi, I’m @FelipeRotjes
 - 👀 I’m interested in Desing & Code
 - 🌱 I’m currently learning Javascript
